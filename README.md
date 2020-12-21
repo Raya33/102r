@@ -1,1 +1,1 @@
-# 102r
+# markdwon is a way to style text on the web ,it control the display of the document ,Format words in italics or bold, add pictures, and create lists .They are just a few things we can do Using Markdown ,Is just plain text that contains a few characters" non-alphabetic like # or *.".
