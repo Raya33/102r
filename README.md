@@ -1,6 +1,9 @@
-` markdwon ` 
-### is a way to style text on the web ,it control the display of the document ,Format words in italics or bold, add pictures, and create lists .They are just a few things we can do Using Markdown ,Is just plain text that contains a few characters" non-alphabetic like # or *.".
+# markdwon 
+* is a way to style text on the web ,it control the display of the document ,Format words in italics or bold, add pictures, and create lists .They are just a few things we can do Using Markdown ,Is just plain text that contains a few characters" non-alphabetic like # or *.". 
 
+ ![Image of markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+
+ 
 # syntax guide:
 ## here is an overview of the markdown structure that you can use anywhere on github.com or in your own text files: 
 
@@ -35,4 +38,3 @@
 # Syntax highlighting:
 * there example of how you can use syntax highlighting with github flavored markdown And they were all covered . (Links to an external site.)
 
- ![Image of markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
